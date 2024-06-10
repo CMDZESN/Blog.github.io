@@ -30,13 +30,19 @@
 ● [Cloudflare官网](https://dash.cloudflare.com/)
 
 ● 构建命令：
-> ./cloudflare/build.sh
+```
+./cloudflare/build.sh
+```
 
 ● 变量名：
-> BYPASS_SERVER
+```
+BYPASS_SERVER
+```
 
 ● 变量值：
-> https://bypass.b1ng.chat
+```
+https://bypass.b1ng.chat
+```
 
 
 
