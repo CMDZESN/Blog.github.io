@@ -42,41 +42,25 @@
 
 <HR>
 
-##### **EP175 - 二手SteamDeck LCD版入手指南，验机，换固态，装系统一条龙教程**
+##### **Windows 12概念宣传片（安装＋账户＋网络）**
 
-● SteanOS系统镜像（官网）：https://help.steampowered.com/zh-cn/faqs/view/1B71-EDF2-EB6D-2BB3
-
-● SteanOS系统镜像：https://pan.quark.cn/s/d5a4b1dbf96a
-
-● SteamDeck专用优化版Win10（来自B站 <font color="#DB7093">@不是很野蛮</font>）：https://pan.quark.cn/s/ac0a9647173e
-
-● SteamDeck专用优化版Win11（来自B站 <font color="#DB7093">@不是很野蛮</font>）：https://pan.quark.cn/s/745651a87faa
-
-● 更多Win掌机优化系统镜像（来自B站 <font color="#DB7093">@不是很野蛮</font>）：https://pan.baidu.com/s/1j5FrXYPvw5XTbu0NBwZP8g?pwd=6666
-
-● BalenaEtcher（官网）：https://etcher.balena.io/
-
-● BalenaEtcher：https://pan.quark.cn/s/dd0eb5dac656
-
-● FirPE（官网）：https://firpe.cn/page-247
-
-● FirPE：https://pan.quark.cn/s/4940601c52b5
+> 本视频没有附件
 
 
 
 <HR>
 
-##### **EP174 - 我 什 么 事 都 做 得 出 来 ！**
+##### **Windows 12概念宣传片（安装＋账户）**
 
-● <font color="#FF8C00">Redmi Turbo3：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQ4JK1olXwMEVlldCk0WAV8IGlsUXAYAXVdeAEoUAl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA24JG1kcVAUKVV1cFxJSXzI4bCJBQ05XVDs9dDUUWTIJXR5jAFF6ElJROEonAG4KG1IUWQIHXG5tCEwnQgEIG1kUXwcBUW5cOEsRA2sJElgQVQEEUFhtD0seMylcRB5NDVlEAAEzVHsnM2w4HFscSQBwFQxJDjknM284GGsVXAYKVl9fC0gWB3MIHlkRXQIeVFhdDEoeAGoBElsQWzYAVV9ZAXsnMydLeyZHPEYBFBoabwtkWjJ6fC1uFAUFIjBfXhJpVwhQTAhVLWJSKxYdDg4nBl8)
+> 本视频没有附件
 
 
 
 <HR>
 
-##### **EP173 - 风扇弟弟，我要把CPU干到75W了噢？天钡GEM12 6900HX上手体验**
+##### **Windows 12概念宣传片（安装篇）**
 
-● <font color="#FF8C00">天钡GEM12 迷你主机：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQsJK1olXwQBXFZcAU0SA18IGlsUXQUGXFhcAEkRBF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA24IGF8dWwcKVlhaFxJSXzI4HiVLIF9EUho9TRdreQZsZEFDWXVCAlJROEonAG4KG1IUWQIHXG5tCEwnQgEIGFIRXQcyVW5dDksSCm4PG1MUWQAHZFldAXtRVzBNQwtKG1JdOgJtOHsUM2gIEk8TL0dQQFgvOHsXM2w4G1oVVA8CVFZUDEoLA2sLEl0QQQYEVFtUCUwXBWcNG1klXwcDUFdtOHtRWxlxRicVOQZWBFw1ATl-fBt1cxocNX9sVg4fATJRARluGwZLOXJjFjZcOHs)
+> 本视频没有附件
 
 
 
