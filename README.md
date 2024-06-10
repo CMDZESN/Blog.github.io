@@ -87,10 +87,9 @@ https://bypass.b1ng.chat
 
 <HR>
 
-##### **EP171 - SDR还是HDR？3A游戏玩家众口难调的画面颜色**
+##### **【游戏免费分享】手把手教你免费下载捣蛋鹅！**
 
-● <font color="#FF8C00">明基MOBIUZ EX2710U 4K HDR 显示器：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BARQJK1olXQYGXFxcAEsSBV8IGloUXwIEVFlZD0InRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWAWsOG1wRWg8dDRsBVXtQfzsPehJJJGZZJgQjDzl_cGZ6bCB1UQoyVW5eCUkXCm4MH14dbTYCU24fZhhDXC_fsuTB843V_dGLncDDq_Y4GmsVWwYHV15eCUsVAmwAK1wVVDZEAAEYUBtIRTtXdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXC20JGVsXXAIeVF9YCU8TH28OG14WXQUDVF9eCUwnAW4JH1IlbTZaEjoAcixyYApqcAZ3FHMKFVoCWihvdCpmGQ5CWGNGVS05bSpFXW5tYytObTY)
-
+> ● 我并不提倡游玩盗版的行为，有能力请购买正版 [Steam主页](https://store.steampowered.com/app/837470/Untitled_Goose_Game/)
 
 
 <HR>
