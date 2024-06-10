@@ -6,7 +6,7 @@
 
 ✓ 你可以方便的在这里查阅并下载每期视频的附件
 
-✓ **CMDZESN_聪明的中二少年的主页：**
+**CMDZESN_聪明的中二少年的主页：**
 
 [个人主页](https://cmdzesn.qeyhl.icu/) [B站](https://b23.tv/EgwH3FU)
 
@@ -111,9 +111,9 @@ https://bypass.b1ng.chat
 
 <HR>
 
-##### **EP169 - 软路由怪的又一趁手利器？阿迈奇ACEMAGIC S1迷你主机上手体验**
+##### **【律动轨迹 Rizline】Journey To The Rainbows EZ AP**
 
-● <font color="#FF8C00">阿迈奇ACEMAGIC S1迷你主机：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQ0JK1olXwQLXV5UCUsTBl8IGlodVQ4BXFdeCkMWCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmcAE1gdVAUAXF9UFxJSXzI4QFJPW01wNSw4SBdCYmtrGlxGNUJkNFJROEonAG4KG1IUWQIHXG5tCEwnQgEIHlsTWgABXG5cOEsRA2wBE1sRVQYEUl5tD0seMylcRB5NDVlEAAEzVHsnM2w4HFscSQBwFQxJDjknM284GGsVXAYKV15YC0wTAnMIGlIQXwMeVFhdC0IfA2sBHVoRXzYAVV9ZAXsnM2hPfBtKW0VpEwleQEpMBTBjGQdsAHFkCjAfTh9jXmZ_WAVWFlVqIjYZdy4nMw)
+> 本视频没有附件
 
 
 
