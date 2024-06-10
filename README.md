@@ -10,7 +10,7 @@
 
 [B站](https://b23.tv/EgwH3FU)
 
-##### ○ <font color="#DB7093">粉丝群群号：740054709看不到二维码（[👉请戳这里👈](/QQQun.jpg)）</font>
+##### ○ <font color="#DB7093">粉丝群群号：740054709</font>
 
 ![粉丝群](/QQQun.jpg)
 
