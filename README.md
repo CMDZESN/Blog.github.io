@@ -72,13 +72,13 @@ https://bypass.b1ng.chat
 
 <HR>
 
-##### **EP172 - 一台电脑，多套键鼠，多个人用，Aster白嫖电脑指南**
+##### **【双语字幕】You're mine  -  你在我的掌控之下（Baldi's BASICS SONG）**
 
-● ASTER（官网）：https://www.ibik.ru
+> ● [视频来源](https://youtu.be/IlouAA8mRZo)
 
-● ASTER（v2.51）：https://pan.quark.cn/s/04f7948787a2
-
-● <font color="#FF8C00">积核XT12 Pro 迷你主机：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQsJK1olXwQAVFZeD08WBF8IGloVXA4FUVhZCEwnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoXAmcPHl0RXQEdDRsBVXsNQj9YRAlxNmVjJig8cjhqaBtyRANTUQoyVW5eCUkXCm4MH14dbTYCU24LZksWAm4NHloQXAQyVW5dDksSAG8LGVsXXQ8DZFldAXtRVzBNQwtKG1JdOgJtOHsUM2gIEk8TL0dQQFgvOHsXM2w4G1oVVQQDVl1fD0MLA20LHVwXQQYEVFteCEgVAmcKHV0lXwcDUFdtOHteXjgNfR9iIHFcFzUtTwxrcw1yWTldPn1sVllYTQMUURd2bFxpPQZYPCkdOHs)
+> ● 本次视频参与制作者：
+> 翻译：CMDZESN_聪明的中二少年（部分翻译来源于有道及@蓝狼沃奇 ）
+> 制作：CMDZESN_聪明的中二少年
 
 
 
