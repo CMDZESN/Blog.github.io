@@ -8,9 +8,9 @@
 
 ✓ **CMDZESN_聪明的中二少年的主页：**
 
-[B站](https://b23.tv/EgwH3FU)
+[个人主页](cmdzesn.github.io) [B站](https://b23.tv/EgwH3FU)
 
-##### ○ <font color="#DB7093">粉丝群群号：740054709</font>
+##### ○ <font color="#DB7093">粉丝群群号：[740054709](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=xqiVpai_oFlNYTvTuUlj-oiesNSVT5NC&authKey=73dpZA6D3P%2FhvSQOq%2F82kV6R4z7OD0GwZPYcOxxUEYsojItHb6pMYRK6AtX5LK1J&noverify=0&group_code=740054709)</font>
 
 ![粉丝群](/QQQun.jpg)
 
