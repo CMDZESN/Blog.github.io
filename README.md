@@ -136,35 +136,17 @@ https://bypass.b1ng.chat
 
 <HR>
 
-##### **EP167 - 啊？把Windows装进显存？**
+##### **【律动轨迹 Rizline】Pastel Lines EZ AP**
 
-● Tiny10：https://pan.quark.cn/s/21e2405f7a8a
-
-● GpuRamDrive（NVIDIA）：https://pan.quark.cn/s/d160a599b141
-
-● GpuRamDrive（AMD）：https://pan.quark.cn/s/9475e44c24be
-
-● Imdisk：https://pan.quark.cn/s/24f945743048
-
-● VMware Workstation Pro（官网）：https://www.vmware.com/products/workstation-pro.html
+> 本视频没有附件
 
 
 
 <HR>
 
-##### **EP166 - 如何拿显卡跑图？StableDiffusion速通指南**
+##### **【律动轨迹 Rizline】游戏体验（B站首发！）**
 
-● 秋葉大佬B站主页：https://space.bilibili.com/12566101
-
-● StableDiffusion 秋葉大佬整合包：https://pan.quark.cn/s/2778c6967601
-
-● C站（需要魔法）：https://civitai.com
-
-● 一些CHECKPOINT（基础）模型：https://pan.quark.cn/s/7e89c5e48c65
-
-● 一些LORA（微调）模型：https://pan.quark.cn/s/02a5cb1f19b2
-
-● SD深度入门推荐看这个 Nenly同学 ：https://www.bilibili.com/video/BV1As4y127HW
+> 本视频没有附件
 
 
 
