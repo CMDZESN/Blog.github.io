@@ -119,13 +119,18 @@ https://bypass.b1ng.chat
 
 <HR>
 
-##### **EP168 - TOS6好用吗？铁威马F4-424Pro 4盘位NAS升级体验**
+##### **【Phigros】3.6.2 梗精选集更新曲目预览**
 
-● <font color="#FF8C00">铁威马F4-424Pro：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAdAJK1olXgAFXVZZCEweAV8IGlsUXAYCVFdfAU0eA19MRANLAjZbERscSkAJHTRQRA1CCVkdDwtCWhVLHTdNTwcKBENeCVAfUg8beQZcQD1lWGQHEzk-QE52WTdPZStnX257OlwndQpkfGlXH15GJQViLTxcfVxXDxtxazliLmFFICcpWzxeAy5-ci9NOWVEEig_VTx1Ag9ObT5mL2FbPBc9UEpwYW54Wy13AHRgHSobayJgeg9rGwxhJGZmIwcmTD1uWQZzfCcTOE5hIjkCViNFZRNYezhxSQV1NAYpbChzY2d-cit8KWJ1Fz4kaCx3WRMObxN1OHFLJwIqVxJldCdrRy8XKWR2HTkCfCJnW19gWyBlBVt1UD46VE9LGWd8TwV-L3BUWFJtCXsUAm0IEloRWQMKZG5dD3tWbW8IHV8QWgcBZF9tCE0XAGgMGF4VWAUBVG5aCEInRTtXXgNFAkBWCzABOHsnAF8PG1IBW3RDBkpbensnA2w4GGsVXAYKV15eDUgXB3MIGFMUVQQeVFhdC0wTAGoIG1scWzYAVV9ZAXsnMxVhTwBzLQNgURk6awMSYjVQXCVlLwRqLTBfcjZWcBAORF8QDn4BNCc_CT4nMw )
-
-● TOS6公测固件：https://pan.quark.cn/s/b6b4a44ef5aa
-
-● TOS6铁威马社区发布页：https://forum.terra-master.com/cn/viewtopic.php
+> 做的不太还原，点赞破100立马更新下一期
+> 
+> Phigros x 梗 联动PV已放出！相关曲目将于2024/05/32更新。
+> 
+> 更新的曲目分别是：
+> •鸡你太美
+> •Homo
+> •大香蕉
+> 
+> 视频制作: CMDZESN_聪明的中二少年
 
 
 
