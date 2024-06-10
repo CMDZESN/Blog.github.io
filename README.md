@@ -94,27 +94,9 @@ https://bypass.b1ng.chat
 
 <HR>
 
-##### **EP170 - 旧手机变网盘！无需代码，在手机上快速部署Alist**
+##### **【游戏免费分享】手把手教你免费下载KinitoPET！**
 
-● AlistFlutter（Github）：https://github.com/jing332/AListFlutter
-
-● AlistFlutter：https://pan.quark.cn/s/2831c6beb6b4
-
-
-
-#Windows下注册表编辑器修改路径
-
-```
-计算机\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WebClient\Parameters
-```
-
-
-
-#Android手机存储根目录路径
-
-```
-/storage/emulated/0/任意文件夹但需要先手动创建
-```
+> ● 我并不提倡游玩盗版的行为，有能力请购买正版 [Steam主页](https://store.steampowered.com/app/2075070/KinitoPET/)
 
 
 
