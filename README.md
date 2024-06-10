@@ -58,7 +58,10 @@ https://bypass.b1ng.chat
 
 ##### **Windows 12概念宣传片（安装＋账户）**
 
-> 本视频没有附件
+> 此版本基于[BV1wi421e73M](https://b23.tv/4Ae1TuT)重置
+> 
+> 新增内容：
+> 账户内容
 
 
 
