@@ -23,15 +23,20 @@
 
 <HR>
 
-##### **EP176 - Batocera+SteamDeck，打造最强复古模拟器游戏掌机**
+##### **国内用不了New bing怎么办？我选择自己部署 手把手教你部署New bing**
 
-● Batocera（官网）：https://batocera.org
+● [项目地址](https://github.com/Harry-zklcdc/go-proxy-bingai)
 
-● Batocera V39：https://pan.quark.cn/s/f244cf42f266
+● [Cloudflare官网](https://dash.cloudflare.com/)
 
-● Batocera BIOS（来自B站 <font color="#DB7093">@DIY吧_强哥</font>）：https://pan.quark.cn/s/cb90682c17f3
+● 构建命令：
+> ./cloudflare/build.sh
 
-● Win32DiskImager：https://pan.quark.cn/s/fa7b5e5ee303 (提取码：QkCw)
+● 变量名：
+> BYPASS_SERVER
+
+● 变量值：
+> https://bypass.b1ng.chat
 
 
 
