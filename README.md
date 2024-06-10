@@ -75,7 +75,7 @@ https://bypass.b1ng.chat
 ##### **【双语字幕】You're mine  -  你在我的掌控之下（Baldi's BASICS SONG）**
 
 > ● [视频来源](https://youtu.be/IlouAA8mRZo)
-
+> 
 > ● 本次视频参与制作者：
 > 翻译：CMDZESN_聪明的中二少年（部分翻译来源于有道及@蓝狼沃奇 ）
 > 制作：CMDZESN_聪明的中二少年
