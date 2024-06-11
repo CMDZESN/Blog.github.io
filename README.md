@@ -156,8 +156,7 @@ https://bypass.b1ng.chat
 
 ##### **都4202年了，还不会做一个属于自己的片头吗？今天我就来教大家如何制作自己的片头！**
 
-![片头1](/Pictures/BV1ru4m1T7rU/Piantou1.jpg)
-![片头2](/Pictures/BV1ru4m1T7rU/Piantou2.jpg)
+> 在这里查看版权信息 [图1](https://cmdzesn-blog.qeyhl.icu/Pictures/BV1ru4m1T7rU/Piantou1.jpg) [图2]([/Pictures/BV1ru4m1T7rU/Piantou2.jpg](https://cmdzesn-blog.qeyhl.icu/Pictures/BV1ru4m1T7rU/Piantou2.jpg))
 
 ● [网站](https://panzoid.com/)
 
