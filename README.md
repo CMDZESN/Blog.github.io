@@ -25,7 +25,7 @@
 
 ##### **国内用不了New bing怎么办？我选择自己部署 手把手教你部署New bing**
 
-> 不想做的可以用我自己做的[点我进入](https://cmdzesn-copilot.qeyhl.icu/web/#/)
+> 不想做的可以用我自己做的 [点我进入](https://cmdzesn-copilot.qeyhl.icu/web/#/)
 
 ● [项目地址](https://github.com/Harry-zklcdc/go-proxy-bingai)
 
@@ -154,9 +154,13 @@ https://bypass.b1ng.chat
 
 <HR>
 
-##### **EP165 - 这组合绝了！用XREAL Air 2+Switch玩游戏也太爽了吧！**
+##### **都4202年了，还不会做一个属于自己的片头吗？今天我就来教大家如何制作自己的片头！**
 
-● <font color="#FF8C00">XREAL Air 2 AR眼镜：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BARwJK1olXwUAUl1YAUkfAV8IGloUWgMFVFxbCkwnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWBGoPG1kTXwEdDRsBVXtnAw54YwRPLmRpHAIbaRxjUA1AaBNlUQoyVW5eCUkXCm4MH14dbTYCU24fZhRUVz9Vz8S8iqGKjejG0eqD1MmuwuKUiY2kZF9tCE0XA2oMGlsXXwIDUW5aCEInRTtXXgNFAkBWCzABOHsnAF8PG1IBW3RDBkpbensnA18LK1sUXQ4BUVlfDk4SH28JHloVWhoCUl5dDU8WA2wAH1sRbQQDVVpUOHsnWTxyHhoXCWFWIAVbTEIWaxZ3RiYWXlZfOlxUDCxMWm8JHw9mXWRGKQAiVXsSMw )
+● [网站](https://panzoid.com/)
+
+● [Minecraft Intro Template模板](https://panzoid.com/creations/394741) 
+
+● [格式转换](https://convertio.co/zh/mkv-mp4/)
 
 
 
