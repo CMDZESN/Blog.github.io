@@ -8,7 +8,7 @@
 # ○ CMDZESN_聪明的中二少年的博客
 
 
-> CMDZESN_聪明的中二少年的博客（请按快捷键 Ctrl+F 输入视频标题来搜索内容）💕
+> CMDZESN_聪明的中二少年的博客（请按快捷键 Ctrl+F 输入视频标题来搜索内容）
 
 
 ✓ 和每期视频保持同步更新
@@ -73,46 +73,6 @@ BYPASS_SERVER
 
 ● 变量值：
 
-```
-
-
-
-**CMDZESN_聪明的中二少年的主页：**
-
-[个人主页](https://cmdzesn.qeyhl.icu/) [B站](https://b23.tv/EgwH3FU)
-
-##### ○ <font color="#DB7093">粉丝群群号：[740054709](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=xqiVpai_oFlNYTvTuUlj-oiesNSVT5NC&authKey=73dpZA6D3P%2FhvSQOq%2F82kV6R4z7OD0GwZPYcOxxUEYsojItHb6pMYRK6AtX5LK1J&noverify=0&group_code=740054709)</font>
-
-![粉丝群](/QQQun.jpg)
-
-
-
-***<font color="#00CAE1">● 提示：如有失效附件，请务必通过私信反馈给我！！！</font>***
-
-***<font color="#FF725C">● 注意！请将附件先转存到自己网盘再下载！！避免文件被和谐！！！！</font>***
-
-
-<HR>
-
-##### **国内用不了New bing怎么办？我选择自己部署 手把手教你部署New bing**
-
-> 不想做的可以用我自己做的 [点我进入](https://cmdzesn-copilot.qeyhl.icu/web/#/)
-
-● [项目地址](https://github.com/Harry-zklcdc/go-proxy-bingai)
-
-● [Cloudflare官网](https://dash.cloudflare.com/)
-
-● 构建命令：
-```
-./cloudflare/build.sh
-```
-
-● 变量名：
-```
-BYPASS_SERVER
-```
-
-● 变量值：
 ```
 https://bypass.b1ng.chat
 ```
