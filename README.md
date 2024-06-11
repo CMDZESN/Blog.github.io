@@ -25,6 +25,8 @@
 
 ##### **国内用不了New bing怎么办？我选择自己部署 手把手教你部署New bing**
 
+> 不想做的可以用我自己做的[点我进入]
+(https://cmdzesn-copilot.qeyhl.icu/web/#/)
 ● [项目地址](https://github.com/Harry-zklcdc/go-proxy-bingai)
 
 ● [Cloudflare官网](https://dash.cloudflare.com/)
