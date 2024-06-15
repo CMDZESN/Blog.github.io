@@ -176,14 +176,10 @@ https://bypass.b1ng.chat
 
 ##### **都4202年了，还不会做一个属于自己的片头吗？今天我就来教大家如何制作自己的片头！**
 
-> 在这里查看版权信息 [图1](https://cmdzesn-blog.qeyhl.icu/Pictures/BV1ru4m1T7rU/Piantou1.jpg) [图2](https://cmdzesn-blog.qeyhl.icu/Pictures/BV1ru4m1T7rU/Piantou2.jpg)
+> 在这里查看版权信息 [图1](https://cmdzesn-blog.simpcloud.bf/Pictures/BV1ru4m1T7rU/Piantou1.jpg) [图2](https://cmdzesn-blog.simpcloud.bf/Pictures/BV1ru4m1T7rU/Piantou2.jpg)
 
 ● [网站](https://panzoid.com/)
 
 ● [Minecraft Intro Template模板](https://panzoid.com/creations/394741) 
 
 ● [格式转换](https://convertio.co/zh/mkv-mp4/)
-
-
-
-<HR>
